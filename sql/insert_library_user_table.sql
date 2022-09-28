@@ -1,0 +1,11 @@
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (1,'Aexi','Liam',to_date('01-01-2010','mm-dd-yyyy'),null,'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (2,'Zhungwang','Noah',to_date('11-24-2020','mm-dd-yyyy'),null,'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (3,'Odum','Oliver',to_date('05-08-1999','mm-dd-yyyy'),to_date('01-01-2021','mm-dd-yyyy'),'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (4,'Chish','Elijah',to_date('07-08-2006','mm-dd-yyyy'),null,'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (5,'Jayi','William',to_date('11-12-2010','mm-dd-yyyy'),null,'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (6,'Jumummaaq','James',to_date('05-01-2004','mm-dd-yyyy'),to_date('08-06-2008','mm-dd-yyyy'),'m');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (7,'Oomxii','Sophia',to_date('11-26-2008','mm-dd-yyyy'),null,'f');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (8,'Ghaada','Charlotte',to_date('04-06-2008','mm-dd-yyyy'),null,'f');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (9,'Zhungwang','Ava',to_date('11-24-2020','mm-dd-yyyy'),null,'f');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (10,'Barret-Kingsley','Emma',to_date('09-12-1997','mm-dd-yyyy'),null,'f');
+INSERT INTO public.library_user(id, name, first_name, member_since, member_till, gender) VALUES (11,'Augusta','Olivia',to_date('07-05-2003','mm-dd-yyyy'),null,'f');
